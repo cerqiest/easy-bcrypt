@@ -1,0 +1,30 @@
+{
+  "name": "easy-bcrypt",
+  "version": "1.0.0",
+  "description": "Easily hash and compare passwords, keys, or anything with the bcrypt algorithim and no fuss.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cerqiest/easy-bcrypt.git"
+  },
+  "keywords": [
+    "bcrypt",
+    "encryption",
+    "encrypt",
+    "password",
+    "hash",
+    "salt"
+  ],
+  "author": "Cerqiest",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cerqiest/easy-bcrypt/issues"
+  },
+  "homepage": "https://github.com/cerqiest/easy-bcrypt#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0"
+  }
+}
